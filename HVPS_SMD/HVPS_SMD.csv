@@ -1,0 +1,17 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"C1";"C_1210";1;"100uF";digikey;311-2052-1-ND;
+2;"C2";"C_0603";1;"0.01uF";digikey;311-3369-1-ND;
+3;"C3";"C_1210";1;"0.22uF";digikey;445-2296-1-ND;
+4;"Cc1";"C_0603";1;"22nF";digikey;732-7935-1-ND;
+5;"Cs1";"C_0603";1;"360pF";digikey;490-1364-1-ND;
+6;"D1";"nixiemisc-DO-219AB";1;"ES1FL R3G";digikey;ES1FL R3GCT-ND;
+7;"R1,R2";"R_0805";2;"604k";digikey;RMCF0805FT604KCT-ND;
+8;"R3";"R_0603";1;"10.2k";digikey;RMCF0603FT10K2CT-ND;
+9;"R4";"R_0603";1;"30k";digikey;RMCF0603JT30K0CT-ND;
+10;"Rc1";"R_0805";1;"4.7k";digikey;RMCF0805FT4K70CT-ND;
+11;"Rf1";"R_0805";1;"47k";digikey;RMCF0805FT47K0CT-ND;
+12;"Rsen1";"R_2010";1;"0.06";digikey;CSRN2010FK60L0CT-ND;
+13;"Rs1";"R_1206";1;"249";digikey;RNCP1206FTD249RCT-ND;
+14;"T1";"nixiemisc-WE-FLEX_ER11_5";1;"WE-FLEX_ER11_5";digikey;1297-1196-1-ND;
+15;"U1";"nixiemisc-SOIC8";1;"LM3478SOIC8";digikey;296-38111-1-ND;
+16;"Q1";"nixiemisc-SO08";1;"AO4294";digikey;785-1732-1-ND;

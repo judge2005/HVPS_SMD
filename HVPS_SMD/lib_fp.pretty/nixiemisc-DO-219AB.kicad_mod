@@ -1,0 +1,16 @@
+(module nixiemisc:nixiemisc-DO-219AB (layer F.Cu) (tedit 59CC5F67)
+  (attr smd)
+  (fp_text reference D1 (at 0 0) (layer F.SilkS) hide
+    (effects (font (thickness 0.15)))
+  )
+  (fp_text value "ES1FL R3G" (at 0 0) (layer F.SilkS) hide
+    (effects (font (thickness 0.15)))
+  )
+  (fp_line (start -1.5748 -0.9525) (end 1.5748 -0.9525) (layer F.SilkS) (width 0.127))
+  (fp_line (start 1.5748 -0.9525) (end 1.5748 0.9525) (layer F.SilkS) (width 0.127))
+  (fp_line (start 1.5748 0.9525) (end -1.5748 0.9525) (layer F.SilkS) (width 0.127))
+  (fp_line (start -1.5748 0.9525) (end -1.5748 -0.9525) (layer F.SilkS) (width 0.127))
+  (fp_line (start -2.413 -0.9525) (end -2.413 0.9525) (layer F.SilkS) (width 0.127))
+  (pad A smd rect (at 1.5494 0 180) (size 1.1938 1.397) (layers F.Cu F.Paste F.Mask))
+  (pad C smd rect (at -1.5494 0) (size 1.1938 1.397) (layers F.Cu F.Paste F.Mask))
+)
